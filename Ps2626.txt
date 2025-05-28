@@ -1,0 +1,24 @@
+
+CS4163 - Advanced Networking, Virtualization and Cloud Computing
+Practical ICA – (Assessment) 01
+
+K.D.M.S.K.Hamy
+EU/IS/2018/PHY/026
+PS2626
+18/19 batch
+
+Here is the English translation of what you typed, kept in the same style:
+
+1. I have a structure with 3 layers: core, distribution, and access.
+
+2. I have created VLANs 192.168.10.0 and 192.168.20.0.
+
+3. I need to connect the distribution layer switches to the core layer switch.
+
+4. I have to set up trunk links and assign VLANs between switches.
+
+5. I need to configure a Layer 3 switch to enable inter-VLAN routing.
+
+6. I must check whether the structure is correct using simulation mode.
+
+
